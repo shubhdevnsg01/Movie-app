@@ -17,7 +17,7 @@ cd source-back-end
 go run ./cmd/api
 
 Login credentials:
-username: admin@example
+email address: admin@example.com
 password: secret
 
 
