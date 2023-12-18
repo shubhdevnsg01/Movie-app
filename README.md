@@ -12,9 +12,18 @@ extract it to a folder
 Front End:
 cd source
 npm start
+
 Back End:
 cd source-back-end
 go run ./cmd/api
+
+**Make sure you have docker and beekeeper  installed 
+sql tables are in the backend folder
+write this in the terminal docker-compose up -d
+
+Beekeeper credentials
+username: postgres
+password: postgres
 
 Login credentials:
 email address: admin@example.com
